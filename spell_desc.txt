@@ -1,0 +1,11 @@
+RLG327 SPELL DESCRIPTION 1
+
+BEGIN SPELL
+NAME Fireball
+DESC
+Shoot a basic fireball at an enemy.
+.
+DAM 0+2d10
+MANA SMART
+COST 180
+END
